@@ -1,0 +1,303 @@
+RequestID: 0	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:103400
+RequestID: 1	 Number: 2	 Factorial:  1	 ProcessingTime:10600
+RequestID: 2	 Number: 2	 Factorial:  1	 ProcessingTime:7700
+RequestID: 3	 Number: 1	 Factorial:  0	 ProcessingTime:6900
+RequestID: 4	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:23200
+RequestID: 5	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:30000
+RequestID: 6	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:19300
+RequestID: 7	 Number: 1	 Factorial:  0	 ProcessingTime:8200
+RequestID: 8	 Number: 2	 Factorial:  1	 ProcessingTime:7600
+RequestID: 9	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:21200
+RequestID: 10	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:101400
+RequestID: 11	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:114700
+RequestID: 12	 Number: 2	 Factorial:  1	 ProcessingTime:18300
+RequestID: 13	 Number: 1	 Factorial:  0	 ProcessingTime:30100
+RequestID: 14	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:46900
+RequestID: 15	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:52200
+RequestID: 16	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:23900
+RequestID: 17	 Number: 2	 Factorial:  1	 ProcessingTime:44400
+RequestID: 18	 Number: 2	 Factorial:  1	 ProcessingTime:8900
+RequestID: 19	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:33400
+RequestID: 20	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:12900
+RequestID: 21	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:8300
+RequestID: 22	 Number: 0	 Factorial:  0	 ProcessingTime:6900
+RequestID: 23	 Number: 0	 Factorial:  0	 ProcessingTime:6300
+RequestID: 24	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:10600
+RequestID: 25	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:10300
+RequestID: 26	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:15600
+RequestID: 27	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:16700
+RequestID: 28	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:12800
+RequestID: 29	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:10000
+RequestID: 30	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:10700
+RequestID: 31	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:12300
+RequestID: 32	 Number: 2	 Factorial:  1	 ProcessingTime:7700
+RequestID: 33	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:13400
+RequestID: 34	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:9800
+RequestID: 35	 Number: 1	 Factorial:  0	 ProcessingTime:7100
+RequestID: 36	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:9000
+RequestID: 37	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:10100
+RequestID: 38	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:11000
+RequestID: 39	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:11600
+RequestID: 40	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:12400
+RequestID: 41	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:12900
+RequestID: 42	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:9300
+RequestID: 43	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:11800
+RequestID: 44	 Number: 2	 Factorial:  1	 ProcessingTime:7600
+RequestID: 45	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:12700
+RequestID: 46	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:9500
+RequestID: 47	 Number: 0	 Factorial:  0	 ProcessingTime:7000
+RequestID: 48	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:9600
+RequestID: 49	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:32700
+RequestID: 50	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:13400
+RequestID: 51	 Number: 1	 Factorial:  0	 ProcessingTime:7100
+RequestID: 52	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:10100
+RequestID: 53	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:9100
+RequestID: 54	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:11100
+RequestID: 55	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:24300
+RequestID: 56	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:13100
+RequestID: 57	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:10600
+RequestID: 58	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:8900
+RequestID: 59	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:10100
+RequestID: 60	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:9000
+RequestID: 61	 Number: 1	 Factorial:  0	 ProcessingTime:13300
+RequestID: 62	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:9700
+RequestID: 63	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:12500
+RequestID: 64	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:26800
+RequestID: 65	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:9100
+RequestID: 66	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:9300
+RequestID: 67	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:8300
+RequestID: 68	 Number: 1	 Factorial:  0	 ProcessingTime:6600
+RequestID: 69	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:12100
+RequestID: 70	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:9500
+RequestID: 71	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:9500
+RequestID: 72	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:8800
+RequestID: 73	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:10200
+RequestID: 74	 Number: 0	 Factorial:  0	 ProcessingTime:13400
+RequestID: 75	 Number: 2	 Factorial:  1	 ProcessingTime:7400
+RequestID: 76	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:19700
+RequestID: 77	 Number: 0	 Factorial:  0	 ProcessingTime:7400
+RequestID: 78	 Number: 0	 Factorial:  0	 ProcessingTime:6800
+RequestID: 79	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:11300
+RequestID: 80	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:11100
+RequestID: 81	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:9000
+RequestID: 82	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:8200
+RequestID: 83	 Number: 0	 Factorial:  0	 ProcessingTime:9900
+RequestID: 84	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:30600
+RequestID: 85	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:8700
+RequestID: 86	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:10700
+RequestID: 87	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:9800
+RequestID: 88	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:10600
+RequestID: 89	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:8000
+RequestID: 90	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:10300
+RequestID: 91	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:38700
+RequestID: 92	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:28000
+RequestID: 93	 Number: 0	 Factorial:  0	 ProcessingTime:8200
+RequestID: 94	 Number: 1	 Factorial:  0	 ProcessingTime:22700
+RequestID: 95	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:7700
+RequestID: 96	 Number: 1	 Factorial:  0	 ProcessingTime:6000
+RequestID: 97	 Number: 1	 Factorial:  0	 ProcessingTime:8900
+RequestID: 98	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:10700
+RequestID: 99	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:9000
+Time taken to calculate fibonacci series of 100 random number is 9876700 Nano seconds
+RequestID: 0	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:155100
+RequestID: 1	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:16400
+RequestID: 2	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:46700
+RequestID: 3	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:24000
+RequestID: 4	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:75100
+RequestID: 5	 Number: 1	 Factorial:  0	 ProcessingTime:10800
+RequestID: 6	 Number: 1	 Factorial:  0	 ProcessingTime:7700
+RequestID: 7	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:33000
+RequestID: 8	 Number: 0	 Factorial:  0	 ProcessingTime:7700
+RequestID: 9	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:11800
+RequestID: 10	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:19200
+RequestID: 11	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:9400
+RequestID: 12	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:22200
+RequestID: 13	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:31800
+RequestID: 14	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:11700
+RequestID: 15	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:36900
+RequestID: 16	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:29600
+RequestID: 17	 Number: 0	 Factorial:  0	 ProcessingTime:7200
+RequestID: 18	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:8600
+RequestID: 19	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:23600
+RequestID: 20	 Number: 1	 Factorial:  0	 ProcessingTime:5700
+RequestID: 21	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:6800
+RequestID: 22	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:27600
+RequestID: 23	 Number: 2	 Factorial:  1	 ProcessingTime:8500
+RequestID: 24	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:12500
+RequestID: 25	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:10800
+RequestID: 26	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:9400
+RequestID: 27	 Number: 0	 Factorial:  0	 ProcessingTime:21100
+RequestID: 28	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:10100
+RequestID: 29	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:28600
+RequestID: 30	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:8200
+RequestID: 31	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:8000
+RequestID: 32	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:24200
+RequestID: 33	 Number: 1	 Factorial:  0	 ProcessingTime:7100
+RequestID: 34	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:29100
+RequestID: 35	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:15600
+RequestID: 36	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:9400
+RequestID: 37	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:9100
+RequestID: 38	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:11600
+RequestID: 39	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:32700
+RequestID: 40	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:17700
+RequestID: 41	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:35600
+RequestID: 42	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:15600
+RequestID: 43	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:8300
+RequestID: 44	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:8600
+RequestID: 45	 Number: 0	 Factorial:  0	 ProcessingTime:5800
+RequestID: 46	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:6500
+RequestID: 47	 Number: 2	 Factorial:  1	 ProcessingTime:6000
+RequestID: 48	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:9500
+RequestID: 49	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:7700
+RequestID: 50	 Number: 2	 Factorial:  1	 ProcessingTime:13300
+RequestID: 51	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:9700
+RequestID: 52	 Number: 0	 Factorial:  0	 ProcessingTime:6700
+RequestID: 53	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:9100
+RequestID: 54	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:33200
+RequestID: 55	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:31500
+RequestID: 56	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:9300
+RequestID: 57	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:16100
+RequestID: 58	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:9800
+RequestID: 59	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:30700
+RequestID: 60	 Number: 1	 Factorial:  0	 ProcessingTime:32700
+RequestID: 61	 Number: 1	 Factorial:  0	 ProcessingTime:34500
+RequestID: 62	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:32600
+RequestID: 63	 Number: 1	 Factorial:  0	 ProcessingTime:7000
+RequestID: 64	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:9300
+RequestID: 65	 Number: 0	 Factorial:  0	 ProcessingTime:6700
+RequestID: 66	 Number: 0	 Factorial:  0	 ProcessingTime:6300
+RequestID: 67	 Number: 1	 Factorial:  0	 ProcessingTime:6600
+RequestID: 68	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:8200
+RequestID: 69	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:7600
+RequestID: 70	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:8700
+RequestID: 71	 Number: 1	 Factorial:  0	 ProcessingTime:22000
+RequestID: 72	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:7100
+RequestID: 73	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:7400
+RequestID: 74	 Number: 2	 Factorial:  1	 ProcessingTime:5500
+RequestID: 75	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:31100
+RequestID: 76	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:8600
+RequestID: 77	 Number: 0	 Factorial:  0	 ProcessingTime:5800
+RequestID: 78	 Number: 0	 Factorial:  0	 ProcessingTime:6200
+RequestID: 79	 Number: 0	 Factorial:  0	 ProcessingTime:5500
+RequestID: 80	 Number: 0	 Factorial:  0	 ProcessingTime:5100
+RequestID: 81	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:13600
+RequestID: 82	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:8600
+RequestID: 83	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:13500
+RequestID: 84	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:9100
+RequestID: 85	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:7800
+RequestID: 86	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:7200
+RequestID: 87	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:7400
+RequestID: 88	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:6700
+RequestID: 89	 Number: 0	 Factorial:  0	 ProcessingTime:5200
+RequestID: 90	 Number: 0	 Factorial:  0	 ProcessingTime:26800
+RequestID: 91	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:24800
+RequestID: 92	 Number: 1	 Factorial:  0	 ProcessingTime:5600
+RequestID: 93	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:24300
+RequestID: 94	 Number: 2	 Factorial:  1	 ProcessingTime:5400
+RequestID: 95	 Number: 1	 Factorial:  0	 ProcessingTime:5400
+RequestID: 96	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:25400
+RequestID: 97	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:49700
+RequestID: 98	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:7600
+RequestID: 99	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:6200
+Time taken to calculate fibonacci series of 100 random number is 9453000 Nano seconds
+RequestID: 0	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:144500
+RequestID: 1	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:59000
+RequestID: 2	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:25800
+RequestID: 3	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:23900
+RequestID: 4	 Number: 0	 Factorial:  0	 ProcessingTime:14100
+RequestID: 5	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:24100
+RequestID: 6	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:43800
+RequestID: 7	 Number: 1	 Factorial:  0	 ProcessingTime:15600
+RequestID: 8	 Number: 0	 Factorial:  0	 ProcessingTime:15300
+RequestID: 9	 Number: 0	 Factorial:  0	 ProcessingTime:13800
+RequestID: 10	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:50300
+RequestID: 11	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:24500
+RequestID: 12	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:20900
+RequestID: 13	 Number: 0	 Factorial:  0	 ProcessingTime:15400
+RequestID: 14	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:26200
+RequestID: 15	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:17900
+RequestID: 16	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:19700
+RequestID: 17	 Number: 0	 Factorial:  0	 ProcessingTime:14700
+RequestID: 18	 Number: 2	 Factorial:  1	 ProcessingTime:30800
+RequestID: 19	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:26600
+RequestID: 20	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:19400
+RequestID: 21	 Number: 2	 Factorial:  1	 ProcessingTime:16900
+RequestID: 22	 Number: 2	 Factorial:  1	 ProcessingTime:13500
+RequestID: 23	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:41800
+RequestID: 24	 Number: 1	 Factorial:  0	 ProcessingTime:13300
+RequestID: 25	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:17200
+RequestID: 26	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:20400
+RequestID: 27	 Number: 0	 Factorial:  0	 ProcessingTime:32700
+RequestID: 28	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:17000
+RequestID: 29	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:60700
+RequestID: 30	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:19900
+RequestID: 31	 Number: 1	 Factorial:  0	 ProcessingTime:14900
+RequestID: 32	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:18800
+RequestID: 33	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:18700
+RequestID: 34	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:15800
+RequestID: 35	 Number: 1	 Factorial:  0	 ProcessingTime:13000
+RequestID: 36	 Number: 1	 Factorial:  0	 ProcessingTime:18100
+RequestID: 37	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:26100
+RequestID: 38	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:21200
+RequestID: 39	 Number: 2	 Factorial:  1	 ProcessingTime:16000
+RequestID: 40	 Number: 0	 Factorial:  0	 ProcessingTime:13900
+RequestID: 41	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:17600
+RequestID: 42	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:19600
+RequestID: 43	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:17200
+RequestID: 44	 Number: 1	 Factorial:  0	 ProcessingTime:14900
+RequestID: 45	 Number: 0	 Factorial:  0	 ProcessingTime:14100
+RequestID: 46	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:19500
+RequestID: 47	 Number: 0	 Factorial:  0	 ProcessingTime:13400
+RequestID: 48	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:20500
+RequestID: 49	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:34500
+RequestID: 50	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:18800
+RequestID: 51	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:24800
+RequestID: 52	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:15700
+RequestID: 53	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:36200
+RequestID: 54	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:16600
+RequestID: 55	 Number: 0	 Factorial:  0	 ProcessingTime:10400
+RequestID: 56	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:21100
+RequestID: 57	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:34000
+RequestID: 58	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:25600
+RequestID: 59	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:15900
+RequestID: 60	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:14000
+RequestID: 61	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:23800
+RequestID: 62	 Number: 2	 Factorial:  1	 ProcessingTime:27300
+RequestID: 63	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:18000
+RequestID: 64	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:19600
+RequestID: 65	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:14800
+RequestID: 66	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:18300
+RequestID: 67	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:18200
+RequestID: 68	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:14600
+RequestID: 69	 Number: 1	 Factorial:  0	 ProcessingTime:13400
+RequestID: 70	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:37200
+RequestID: 71	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:14300
+RequestID: 72	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:19300
+RequestID: 73	 Number: 0	 Factorial:  0	 ProcessingTime:13300
+RequestID: 74	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:30500
+RequestID: 75	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:19200
+RequestID: 76	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:16600
+RequestID: 77	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:59300
+RequestID: 78	 Number: 0	 Factorial:  0	 ProcessingTime:10700
+RequestID: 79	 Number: 2	 Factorial:  1	 ProcessingTime:39900
+RequestID: 80	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:40700
+RequestID: 81	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:56000
+RequestID: 82	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:33500
+RequestID: 83	 Number: 2	 Factorial:  1	 ProcessingTime:22100
+RequestID: 84	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:17800
+RequestID: 85	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:75800
+RequestID: 86	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:18200
+RequestID: 87	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:41800
+RequestID: 88	 Number: 5	 Factorial:  1 1 2 3 5	 ProcessingTime:13800
+RequestID: 89	 Number: 3	 Factorial:  1 1 2	 ProcessingTime:17800
+RequestID: 90	 Number: 7	 Factorial:  1 1 2 3 5 8 13	 ProcessingTime:15700
+RequestID: 91	 Number: 1	 Factorial:  0	 ProcessingTime:12200
+RequestID: 92	 Number: 2	 Factorial:  1	 ProcessingTime:10700
+RequestID: 93	 Number: 6	 Factorial:  1 1 2 3 5 8	 ProcessingTime:47900
+RequestID: 94	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:21900
+RequestID: 95	 Number: 9	 Factorial:  1 1 2 3 5 8 13 21 34	 ProcessingTime:41100
+RequestID: 96	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:20600
+RequestID: 97	 Number: 4	 Factorial:  1 1 2 3	 ProcessingTime:14000
+RequestID: 98	 Number: 2	 Factorial:  1	 ProcessingTime:10300
+RequestID: 99	 Number: 8	 Factorial:  1 1 2 3 5 8 13 21	 ProcessingTime:17100
+Time taken to calculate fibonacci series of 100 random number is 12429800 Nano seconds
